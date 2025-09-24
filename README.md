@@ -1,2 +1,11 @@
-# Hr_Analytics
-This is power-bi project on product saller store.
+# 👨‍💼 HR Analytics Project  
+
+## 📖 Overview  
+This project explores HR data to understand employee attrition, performance, and retention.  
+
+## ⚙ Tech Stack  
+- Power-BI 
+
+## 📊 Output  
+- Attrition trends identified  
+- Key factors influencing retention highlighted 
