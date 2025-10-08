@@ -1,4 +1,4 @@
-# 👨‍💼 HR Analytics Project  
+#  HR Analytics Project  
 
 ## 📖 Overview  
 This project explores HR data to understand employee attrition, performance, and retention.  
